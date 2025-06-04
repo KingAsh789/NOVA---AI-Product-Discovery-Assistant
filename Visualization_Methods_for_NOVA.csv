@@ -1,0 +1,11 @@
+Visualization Type,Use Case,Best For
+Bar Chart,Compare numerical values across different products or time periods,"Ad spend comparison, sales volume, engagement counts"
+Line Graph,Show trends over time,"Trend analysis, daily impressions or views"
+Pie Chart,Show proportions of a whole,"Market share, product category distribution"
+Heatmap,Show relationship intensity between variables,"Keyword performance, engagement rate vs. ad spend"
+Scatter Plot,Show correlation between two variables,"Cost vs conversion rate, engagement vs views"
+Bubble Chart,Show correlation and an additional variable by size,"Products comparison with cost, conversion rate, and ad engagement"
+Word Cloud,Highlight most frequent keywords in text data,"Ad copy, product titles, user comments"
+Stacked Bar Chart,Compare multiple components in a single bar,"Engagement types (likes, shares, comments) across products"
+Table,Detailed numeric values in structured format,"Raw product metrics, exact counts, ranked lists"
+Gauge Chart,Visualize a single metric relative to a threshold,"Performance scoring, trend rating"
